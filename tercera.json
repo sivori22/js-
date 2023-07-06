@@ -1,0 +1,52 @@
+{
+    "skins": [
+      {
+        "nombre": "Flip dopler",
+        "precio": "$500",
+        "descripcion": "Los cuchillos plegables tienen una hoja curvada de estilo persa con una punta afilada.",
+        "imagen": "./img/cuchillo_fase2-removebg-preview.png"
+      },
+      {
+        "nombre": "Desert",
+        "precio": "$40",
+        "descripcion": "Tan cara como potente, la Desert Eagle es una emblemática pistola difícil de dominar.",
+        "imagen": "./img/desert2-removebg-preview.png"
+      },
+      {
+        "nombre": "Karambit",
+        "precio": "$800",
+        "descripcion": "Con su hoja curvada emulando la garra de un tigre.",
+        "imagen": "./img/karambit-removebg-preview.png"
+      },
+      {
+        "nombre": "karambit",
+        "precio": "$4000",
+        "descripcion": "Con su hoja curvada emulando la garra de un tigre.",
+        "imagen": "./img/karambit2.png"
+      },
+      {
+        "nombre": "Mariposa lore",
+        "precio": "$1200",
+        "descripcion": "Esto es una navaja de diseño personalizado, comúnmente conocida como cuchillo mariposa.",
+        "imagen": "./img/lore-removebg-preview.png"
+      },
+      {
+        "nombre": "Mp7",
+        "precio": "$40",
+        "descripcion": "Versátil pero caro, el subfusil alemán MP7 es la mejor elección para combates a corta distancia.",
+        "imagen": "./img/mp7-removebg-preview.png"
+      },
+      {
+        "nombre": "M4a1s",
+        "precio": "$180",
+        "descripcion": "El M4A1 con silenciador tiene un cargador más pequeño que su homólogo no silenciado.",
+        "imagen": "./img/printstream-removebg-preview.png"
+      },
+      {
+        "nombre": "Revolver",
+        "precio": "$50",
+        "descripcion": "El revólver R8 ofrece una ronda de alta precisión y potencia a expensas de una pulsación de gatillo más larga.",
+        "imagen": "./img/revolver-removebg-preview.png"
+      }
+    ]
+  }
